@@ -1,0 +1,95 @@
+.div1{
+  width: 150px;
+  height: 233px;
+  border: 3px solid rgb(0, 0, 0);
+  position: absolute;
+  left: 350px;
+  top: 20px;
+  border-radius: 10px;
+}
+.div2{
+  width: 150px;
+  height: 233px;
+  border: 3px solid rgb(0, 0, 0);
+  position: absolute;
+  left: 550px;
+  top: 20px;
+  border-radius: 10px;
+}
+
+.div3{
+  width: 150px;
+  height: 233px;
+  border: 3px solid rgb(0, 0, 0);
+  position: absolute;
+  left: 50px;
+  top: 275px;
+  border-radius: 10px;
+}
+
+.div4{
+  width: 150px;
+  height: 233px;
+  border: 3px solid rgb(0, 0, 0);
+  position: absolute;
+  left: 250px;
+  top: 275px;
+  border-radius: 10px;
+}
+.div5{
+  width: 150px;
+  height: 233px;
+  border: 3px solid rgb(0, 0, 0);
+  position: absolute;
+  left: 450px;
+  top: 275px;
+  border-radius: 10px;
+}
+.div6{
+  width: 150px;
+  height: 233px;
+  border: 3px solid rgb(0, 0, 0);
+  position: absolute;
+  left: 650px;
+  top: 275px;
+  border-radius: 10px;
+}
+.div7{
+  width: 150px;
+  height: 233px;
+  border: 3px solid rgb(0, 0, 0);
+  position: absolute;
+  left: 850px;
+  top: 275px;
+  border-radius: 10px;
+}
+.div8{
+  width: 150px;
+  height: 233px;
+  border: 3px solid rgb(0, 0, 0);
+  position: absolute;
+  left: 350px;
+  bottom: 20px;
+  border-radius: 10px;
+}
+.div9{
+  width: 150px;
+  height: 233px;
+  border: 3px solid rgb(0, 0, 0);
+  position: absolute;
+  left: 550px;
+  bottom: 20px;
+  border-radius: 10px;
+}
+.body{
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fwallpapers%2Fpoker-table-green-fabric-ehvbvg2v8010o3sx.html&psig=AOvVaw1CMOMAt5ivyt-ATvELXtEt&ust=1676095014883000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiX-tGiiv0CFQAAAAAdAAAAABBf");
+}
+
+.image{
+  width: 150px;
+  height: 233px;
+}
+
+.button{
+  
+}
